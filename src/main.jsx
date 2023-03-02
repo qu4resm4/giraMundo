@@ -5,9 +5,7 @@ import { BrowserRouter, createBrowserRouter } from "react-router-dom";
 import App from './App'
 import './index.css'
 
-const router = createBrowserRouter({
-  
-})
+
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
